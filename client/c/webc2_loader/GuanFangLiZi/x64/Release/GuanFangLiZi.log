@@ -1,0 +1,9 @@
+﻿  源.c
+F:\书籍资料\用伪端口复用让无法出网机器在CS中上线\webc2_demo\client\c\webc2_loader\GuanFangLiZi\源.c(57): warning C4244: “函数”: 从“DWORD”转换到“u_short”，可能丢失数据
+F:\书籍资料\用伪端口复用让无法出网机器在CS中上线\webc2_demo\client\c\webc2_loader\GuanFangLiZi\源.c(56): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  D:\Windows Kits\10\Include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  GuanFangLiZi.vcxproj -> F:\书籍资料\用伪端口复用让无法出网机器在CS中上线\webc2_demo\client\c\webc2_loader\x64\Release\GuanFangLiZi.exe

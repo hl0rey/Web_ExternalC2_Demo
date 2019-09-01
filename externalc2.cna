@@ -1,0 +1,2 @@
+#格式：externalc2_start("IP地址",端口);
+externalc2_start("0.0.0.0",2222);

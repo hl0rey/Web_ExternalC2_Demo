@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
+Release|x64|F:\书籍资料\用伪端口复用让无法出网机器在CS中上线\webc2_demo\client\c\webc2_loader\|
